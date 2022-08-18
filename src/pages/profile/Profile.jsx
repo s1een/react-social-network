@@ -15,12 +15,12 @@ function Profile() {
             <div className="profile-cover">
               <img
                 className="profile-cover-img"
-                src="/assets/post/3.jpeg"
+                src="assets/post/3.jpeg"
                 alt=""
               />
               <img
                 className="profile-user-img"
-                src="/assets/person/1.jpeg"
+                src="assets/person/1.jpeg"
                 alt=""
               />
             </div>
