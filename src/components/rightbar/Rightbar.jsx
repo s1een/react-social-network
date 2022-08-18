@@ -7,12 +7,12 @@ function Rightbar({ profile }) {
     return (
       <>
         <div className="birthday-container">
-          <img className="birthday-img" src="/assets/gift.png" alt="" />
+          <img className="birthday-img" src="assets/gift.png" alt="" />
           <span className="birthday-text">
             <b>Pola Foster</b> and <b>3 other frineds</b> have a birthday today.
           </span>
         </div>
-        <img className="rightbar-ad" src="/assets/ad.png" alt="" />
+        <img className="rightbar-ad" src="assets/ad.png" alt="" />
         <h4 className="rightbar-title">Online Friends</h4>
         <ul className="rightbar-friendlist">
           {Users.map((el) => (
@@ -45,7 +45,7 @@ function Rightbar({ profile }) {
           <div className="rightbar-following">
             <img
               className="rightbar-following-img"
-              src="/assets/person/1.jpeg"
+              src="assets/person/1.jpeg"
               alt=""
             />
             <span className="rightbar-following-name">John Carter</span>
@@ -53,7 +53,7 @@ function Rightbar({ profile }) {
           <div className="rightbar-following">
             <img
               className="rightbar-following-img"
-              src="/assets/person/2.jpeg"
+              src="assets/person/2.jpeg"
               alt=""
             />
             <span className="rightbar-following-name">John Carter</span>
@@ -61,7 +61,7 @@ function Rightbar({ profile }) {
           <div className="rightbar-following">
             <img
               className="rightbar-following-img"
-              src="/assets/person/3.jpeg"
+              src="assets/person/3.jpeg"
               alt=""
             />
             <span className="rightbar-following-name">John Carter</span>
@@ -69,7 +69,7 @@ function Rightbar({ profile }) {
           <div className="rightbar-following">
             <img
               className="rightbar-following-img"
-              src="/assets/person/4.jpeg"
+              src="assets/person/4.jpeg"
               alt=""
             />
             <span className="rightbar-following-name">John Carter</span>
@@ -77,7 +77,7 @@ function Rightbar({ profile }) {
           <div className="rightbar-following">
             <img
               className="rightbar-following-img"
-              src="/assets/person/5.jpeg"
+              src="assets/person/5.jpeg"
               alt=""
             />
             <span className="rightbar-following-name">John Carter</span>
@@ -85,7 +85,7 @@ function Rightbar({ profile }) {
           <div className="rightbar-following">
             <img
               className="rightbar-following-img"
-              src="/assets/person/6.jpeg"
+              src="assets/person/6.jpeg"
               alt=""
             />
             <span className="rightbar-following-name">John Carter</span>

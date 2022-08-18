@@ -40,13 +40,13 @@ function Post({ post }) {
             <img
               onClick={likeHandler}
               className="like-icon"
-              src="/assets/like.png"
+              src="assets/like.png"
               alt=""
             />
             <img
               onClick={likeHandler}
               className="like-icon"
-              src="/assets/heart.png"
+              src="assets/heart.png"
               alt=""
             />
             <span className="post-like-counter">{like} people like it</span>

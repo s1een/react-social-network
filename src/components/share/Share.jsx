@@ -8,7 +8,7 @@ function Share() {
         <div className="share-top">
           <img
             className="share-profile-img"
-            src="/assets/person/1.jpeg"
+            src="assets/person/1.jpeg"
             alt=""
           />
           <input placeholder="What's in your mind?" className="share-input" />
